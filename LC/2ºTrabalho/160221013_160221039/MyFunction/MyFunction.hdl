@@ -1,0 +1,7 @@
+CHIP MyFunction {
+    IN a, b,c,d;
+    OUT f;
+
+    PARTS:
+    Mux8 (a=true, b=true, c=true, d=true, e=false, f=true, g=true, h=true, sel[0]=c,sel[1]=b ,sel[2]=a, out=f);
+}
