@@ -1,0 +1,15 @@
+﻿  cache.c
+  list.c
+C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\ATAD_Recurso\list.c(38): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\ATAD_Recurso\list.c(135): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\ATAD_Recurso\list.c(140): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\ATAD_Recurso\list.c(167): warning C4018: '>=': incompatibilidade de signed/unsigned
+C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\ATAD_Recurso\list.c(188): warning C4018: '>=': incompatibilidade de signed/unsigned
+C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\ATAD_Recurso\list.c(200): warning C4018: '>=': incompatibilidade de signed/unsigned
+C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\ATAD_Recurso\list.c(283): warning C4018: '<': incompatibilidade de signed/unsigned
+  listElem.c
+  main.c
+  map.c
+  mapElem.c
+  Gerando Código...
+  ATAD_Recurso.vcxproj -> C:\Users\Gabriel\Desktop\Fac\Fac\Gabiru\1ºAno\2ºSem\ATAD\2ªV\GabrielAmbrósio_160221013\ATAD_Recurso\Debug\ATAD_Recurso.exe

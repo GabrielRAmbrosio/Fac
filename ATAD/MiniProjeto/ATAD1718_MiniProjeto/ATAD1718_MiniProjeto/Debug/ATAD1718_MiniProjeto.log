@@ -1,0 +1,9 @@
+﻿  statistics.c
+  player.c
+  main.c
+c:\users\gabriel\source\repos\atad1718_miniprojeto\atad1718_miniprojeto\main.c(427): warning C4018: '>=': incompatibilidade de signed/unsigned
+c:\users\gabriel\source\repos\atad1718_miniprojeto\atad1718_miniprojeto\main.c(427): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\gabriel\source\repos\atad1718_miniprojeto\atad1718_miniprojeto\main.c(436): warning C4018: '>=': incompatibilidade de signed/unsigned
+c:\users\gabriel\source\repos\atad1718_miniprojeto\atad1718_miniprojeto\main.c(436): warning C4018: '<=': incompatibilidade de signed/unsigned
+  Gerando Código...
+  ATAD1718_MiniProjeto.vcxproj -> C:\Users\Gabriel\source\repos\ATAD1718_MiniProjeto\Debug\ATAD1718_MiniProjeto.exe
