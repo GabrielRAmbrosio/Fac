@@ -1,0 +1,12 @@
+ind	filename	alg	tt	iter	best
+
+----------------------------------------
+1	ex23	ajkpa	 2.497	29905548	
+ind	filename	alg	tt	iter	best
+
+----------------------------------------
+1	ex23	ajkpa	 1.362	16237551	
+ind	filename	alg	tt	iter	best
+
+----------------------------------------
+1	ex23	ajkpa	 0.264	1633376	
