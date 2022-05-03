@@ -1,0 +1,39 @@
+12
+1, Entrada
+2, Dormitorios
+3, Refeitorio
+4, WC
+5, Floresta
+6, Montanha
+7, Pavilh�o
+8, Campo Desportivo
+9, Piscina
+10, Lago
+11, Loja
+12, Biblioteca
+25
+1, ponte, ponteDormente, 1, 2, false, 5, 120
+2, ponte, ponteEsfomeada, 1, 3, true, 20, 250
+3, ponte, ponteLochNess, 1, 10, true, 19, 80
+4, ponte, ponteArvoredo, 1, 5, true, 14, 155
+5, caminho, chinelos, 2, 11, true, 6, 100
+6, caminho, caf�DaManh�, 2, 3, false, 2, 55
+7, caminho, sonambulo, 2, 4, true, 0, 50
+8, caminho, aulinhas, 2, 7, true, 7, 100
+9, caminho, necessidades, 3, 4, true, 0, 30
+10, caminho, larica, 3, 7, true, 0, 45
+11, caminho, volteSempre, 4, 11, true, 0, 40
+12, caminho, interrup��o, 4, 7, true, 0, 25
+13, caminho, flora, 5, 6, true, 8, 55
+14, caminho, fauna, 5, 10, false, 22, 35
+15, caminho, paisagem, 6, 10, true, 20, 50
+16, caminho, natacinha, 7, 9, true, 10, 95
+17, caminho, maias, 12, 11, true, 15, 170
+18, caminho, phelps, 8, 9, true, 9, 80
+19, caminho, escorrega, 9, 10, true, 11, 150
+20, caminho, pisoMolhado, 9, 11, true, 12, 75
+21, ponte, ponteCam�es, 10, 12, true, 12, 110
+22, ponte, ponteDrag�o, 10, 11, true, 8, 60
+23, ponte, ponteRampa, 11, 1, false, 3, 75
+24, ponte, ponteLembran�a, 7, 11, false, 15, 120
+25, caminho, estudioso, 8, 12, true, 15, 35
